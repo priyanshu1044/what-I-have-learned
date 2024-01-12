@@ -12,6 +12,13 @@ This repository is a collection of my learning materials and projects.
 ## 🎯 Future Plans
 
 I plan to continue my learning journey by exploring...
+1. 🌐 Full Stack Development
+2. ⚛️ React
+3. ➡️ Next.js
+4. 🧠 AI
+5. 🤖 TensorFlow
+6. 🐳 Docker
+7. ⛴️ Kubernetes
 
 ## 🏗️ Projects
 
